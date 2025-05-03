@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Justin LeMay – Spectrum Winback Rep</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    header {
+      background-color: #003366;
+      color: white;
+      padding: 20px;
+      text-align: center;
+      width: 100%;
+    }
+    .container {
+      max-width: 800px;
+      padding: 20px;
+    }
+    img {
+      max-width: 150px;
+      height: auto;
+      margin: 10px auto;
+      display: block;
+    }
+    h1, h2 {
+      color: #003366;
+    }
+    .highlight {
+      background-color: #d9edf7;
+      border: 2px solid #31708f;
+      padding: 20px;
+      border-radius: 8px;
+      margin: 20px 0;
+    }
+    .contact {
+      background-color: #e6f0ff;
+      padding: 20px;
+      margin-top: 30px;
+      border-radius: 8px;
+      text-align: center;
+    }
+    a {
+      color: #003366;
+      text-decoration: none;
+    }
+    .bold-highlight {
+      font-weight: bold;
+      background-color: yellow;
+      padding: 2px 4px;
+    }
+    .alert-box {
+      background-color: #fff3cd;
+      border-left: 5px solid #ffa502;
+      padding: 15px;
+      margin-top: 20px;
+      font-weight: bold;
+      color: #856404;
+    }
+    .text-button {
+      display: inline-block;
+      background-color: #28a745;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 6px;
+      font-size: 18px;
+      margin-top: 15px;
+      text-decoration: none;
+    }
+    .text-button:hover {
+      background-color: #218838;
+    }
+    .call-button {
+      display: inline-block;
+      background-color: #007bff;
+      color: white;
+      padding: 12px 20px;
+      border-radius: 6px;
+      font-size: 18px;
+      margin-top: 10px;
+      text-decoration: none;
+    }
+    .call-button:hover {
+      background-color: #0056b3;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 style="color: white;">Justin LeMay Address Winback and Connectivity Specialist</h1>
+    <h1 style="color: white;">Spectrum Employee, direct source not a retailer!</h1>
+    <p>Sorry I missed you! We just did a huge service upgrade in this area and I have been handed some phenomenal and exclusive offers to your address with no contracts, two year price locks, no money upfront and 30 day love it or don't pay a dime guarantees. Please take a look at the current offers and reach out with any and all questions! If you're seeing this page you're part of the less than 1% of addresses to qualify for these door-to-door winback offers! So please, look through the information or if it gets overwhelming give me a call or text at 865-712-1970 and let me see how much I can save you and your family. I love my job and I can promise you, this isn't another spam letter from Spectrum, I've been in the connectivity industry over a decade and I know my way around it very well and I can promise you I can save you money often 60% or more for just as good or usually even better service!</p>
+  </header>
+
+  <div class="container">
+    <img src="attached_assets/Spectrum_Mobile_Logo_Vert_R_RGB_1746290760457.jpg" alt="Spectrum Mobile Logo" style="max-width: 300px; margin-bottom: 20px;">
+
+    <div class="highlight">
+      <h2>Current Deals as of <script>document.write(new Date().toLocaleDateString());</script></h2>
+      <p><strong><span class="bold-highlight">No money due upfront</span></strong></p>
+      <p><strong>$30/month for 600 MBPS</strong> <em>OR</em> <strong>$50 for 1 GBPS Speed (Gig)</strong> – All taxes and fees included</p>
+      <p><strong>TV + Gig Deal:</strong> TV Stream + Gig Internet for <strong>$83/month including tax</strong></p>
+      <p><strong>PLUS</strong> Free Unlimited Data Cellphone line through Verizon towers for <strong>FREE for a year</strong> <em>(Optional, not required to take advantage of promo... but seriously, it's free)</em></p>
+      <p><em>Cancel anytime. No contract. $30/month after 12-month free mobile promotion ends. Additional mobile lines also just $30/month – all taxes and fees included.</em></p>
+    </div>
+
+    <div class="alert-box">
+      Important: Going through me directly gets you special winback pricing and waived fees that <u>the website or 1-800 number can't match</u>. Online or phone orders usually include activation and install fees on the first bill, and <strong>do not include the 2-year price lock</strong> I can offer you in person.
+      <br><br>
+      <em>Even better—</em>you don’t even need to have me back over to get started. No sensitive info is needed—just your <strong>name, phone number, email, and birthdate</strong>. You can call or text me that anytime, and I’ll handle the rest from here.
+      Please continue scrolling to see my verified ID badge and more info of why I dropped by your house.
+    </div>
+
+    <div class="contact">
+      <h2>Reach Out</h2>
+      <p><strong>Call or Text:</strong> <a href="tel:865-712-1970">865-712-1970</a></p>
+      <p><strong>Email:</strong> <a href="mailto:Justin.LeMay@Charter.com">Justin.LeMay@Charter.com</a></p>
+      <p><strong>Request a Callback or More Information:</strong> <a href="https://forms.gle/r5VGUrn668XVzzqp9">Click Here</a></p>
+      <a href="sms:8657121970?body=Hi%20Justin%2C%20I'm%20interested%20in%20getting%20set%20up.%20Here%20is%20my%20info%3A" class="text-button">📱 Get Started Now via Text</a>
+      <br>
+      <a href="tel:8657121970" class="call-button">📞 Call Me Now</a>
+    </div>
+
+    <h2>Welcome</h2>
+    <p>Hi, I’m Justin – your local Spectrum rep. If you're viewing this page I stopped by because we just did a huge service upgrade in this area adding fiber speeds, and I've been handed exclusive offers to winback former customers and/or former addresses. I've been in the connectivity industry for over a decade and I can promise you I'm in this role to help people save money and still get quality service.</p>
+
+    <h2>What I Offer</h2>
+    <ul>
+      <li>✅ Absolute lowest prices available at Spectrum, (or anywhere for that matter) with all activation and install fees waived </li>
+      <li>✅ Internet upgrades up to 1 Gbps</li>
+      <li>✅ Mobile service through Verizon towers, if you are seeing this page you get your first line of Unlimited everything free for a year. Keep your number or get a new one! $30 a month including taxes after 12 month promotion.</li>
+      <li>✅ Absolute transparency, <span class="bold-highlight">nothing due to get started and 30 days to try it and if you don't love it, you never pay a dime</span>, no need in cancelling your current provider until you are happy with the service.</li>
+    </ul>
+
+    <h2>Why Work With Me?</h2>
+    <ul>
+      <li>✔ Point of local contact, no run arounds</li>
+      <li>✔ Fast setup and easy switching</li>
+      <li>✔ One-on-one help with no pressure</li>
+      <li>✔ Over a decade of Connectivity industry experience</li>
+    </ul>
+
+    <h2>Verified Rep</h2>
+    <img src="attached_assets/20250503_120947 (1).jpg" alt="Justin's Spectrum ID Badge" style="max-width: 300px;">
+  </div>
+</body>
+</html>
+
+
